@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #f9ebc88d;
+    color: #644536;
+    text-align: centre;
+    padding: 25px;
+    border: 25px;
+  }
+  
+  h1, h2, h3 {
+    color: #0c0A3E;
+  }
+  
+  p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  
+  .image-container {
+  text-align: center;
+  }
+  
+  .center-content {
+    text-align: center;
+  }
+  
+  .button {
+    text-align: left;
+  }
